@@ -1,0 +1,5 @@
+{
+  "name": "Catch the Mask",
+  "description": "A simple and fun web game where the player controls a first-aid kit to catch falling masks. The goal is to score points, level up by increasing speed, and avoid missing more than two masks.",
+  "requestFramePermissions": []
+}
